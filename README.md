@@ -39,8 +39,8 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 > sudo rm -rf /usr/local/share/systemtap/tapset/node.stp<br/>
 
 ###### 2. Install Node v10.13.0 via link https://nodejs.org/download/release/
-###### 3. Install Angular CLI: npm install -g angular-cli@10.2.2
-###### 4. Set permission folder: sudo chown -R $USER /usr/local/lib/node_modules
+###### 3. Set permission folder: sudo chown -R $USER /usr/local/lib/node_modules
+###### 4. Install Angular CLI: npm install -g @angular-cli@10.2.2
 ###### 5. ng new protractor-e2e-testing
 ###### 6. Delete all file of protractor-e2e-testing project without e2e folder
 ###### 7. Copy all file of protractor-app-contact project without e2e folder and paste to protractor-e2e-testing
